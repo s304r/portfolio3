@@ -1,8 +1,8 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Archie"
+title = "Shankar Raman"
 theme="archie"
-copyright = "© Athul"
+copyright = ""
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
